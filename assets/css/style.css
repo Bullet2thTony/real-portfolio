@@ -1,0 +1,64 @@
+body {
+    background-image: url('circles-dark.png');
+}
+.nav {
+    display: flex;
+    font-family: sans-serif;
+    height: 100px;
+    padding-top: 60px;
+    font-size: 20px;
+    background-color: white;
+    border-bottom: 1px solid black;
+    }
+#about{
+padding-left: 65%;
+}   
+#aboutInfo {
+    width: 75%;
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 400px;
+    margin-top: 20px;
+    
+}
+ img { 
+     float: left; 
+     width: 20%; 
+     height: 200px; 
+     margin-left: 20px;
+     padding-top: 20px; 
+ }
+#aboutIt {
+    padding-left: 300px;
+    font-family: sans-serif;
+}
+#aboutFooter {
+    font-family: sans-serif;
+    position: sticky;
+    width: 100%;
+    border-top: 1px solid black;
+    text-align: center;
+    margin-top: 20px
+}
+
+/* contact page css */
+#contactInfo {
+    padding-left: 150px;
+    padding-top: 50px;
+    border: 1px solid black;
+    width: 50%;
+    height: 300px;
+    margin-top: 20px;
+}
+
+#portContainer {
+    width: 75%;
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 400px;
+    margin-top: 20px;
+}
+img {
+    height: 200px; 
+    widows: 200px;
+}
